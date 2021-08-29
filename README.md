@@ -21,8 +21,7 @@ It can do simple Google OAuth.
 
 ## Help
 
-Contact Me From My Social Media If Need Any Help
-
+Contact me from my social media accounts 
 ## License
 
 This project is licensed under the [Furkan Ayilmaz] License - see the LICENSE.md file for details
