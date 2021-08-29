@@ -1,56 +1,31 @@
-# Project Title
+# SpringBoot Google OAuth
 
-Simple overview of use/purpose.
+A simple project made with SpringBoot
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+It can do simple Google OAuth. 
 
 ## Getting Started
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Download The Project
+* Modify application.properties file and put your client-id and client-secret from Google Cloud Console
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Run the project
+* Go to localhost:8080 to test the SpringBoot
+* Go to localhost:8080/restricted to login using google
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+Contact Me From My Social Media If Need Any Help
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [Furkan Ayilmaz] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
