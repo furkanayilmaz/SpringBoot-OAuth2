@@ -4,7 +4,7 @@ A simple project made with SpringBoot
 
 ## Description
 
-It can do simple Google OAuth. 
+Can do simple Google OAuth. 
 
 ## Getting Started
 
